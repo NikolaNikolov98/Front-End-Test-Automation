@@ -28,4 +28,4 @@ Move task between statuses
 
 Delete task
 
-The project demonstrates practical UI automation skills, working with dynamic elements, unstable locators, and structured test execution.
+
