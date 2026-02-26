@@ -1,6 +1,5 @@
 The project demonstrates automated UI testing of the TimeWise web application using:
 
-✅ Selenium IDE (Firefox)
 
 ✅ Selenium WebDriver (C#)
 
